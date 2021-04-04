@@ -1,0 +1,10 @@
+#ifndef __ETL_PROFILE_H__
+#define __ETL_PROFILE_H__
+
+#define ETL_NO_STL 1
+#define ETL_COMPILER_CLANG 1
+#define ETL_CPP11_SUPPORTED 1
+#define ETL_CPP14_SUPPORTED 1
+#define ETL_CPP17_SUPPORTED 1
+
+#endif
